@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/HTVC/static/css/main.f6a7df9e.chunk.css",
+    "main.js": "/HTVC/static/js/main.17f4253a.chunk.js",
+    "main.js.map": "/HTVC/static/js/main.17f4253a.chunk.js.map",
+    "runtime-main.js": "/HTVC/static/js/runtime-main.a41bc9ef.js",
+    "runtime-main.js.map": "/HTVC/static/js/runtime-main.a41bc9ef.js.map",
+    "static/js/2.18e9ccae.chunk.js": "/HTVC/static/js/2.18e9ccae.chunk.js",
+    "static/js/2.18e9ccae.chunk.js.map": "/HTVC/static/js/2.18e9ccae.chunk.js.map",
+    "index.html": "/HTVC/index.html",
+    "precache-manifest.d25c52c44c903a6e898e1b94f402159c.js": "/HTVC/precache-manifest.d25c52c44c903a6e898e1b94f402159c.js",
+    "service-worker.js": "/HTVC/service-worker.js",
+    "static/css/main.f6a7df9e.chunk.css.map": "/HTVC/static/css/main.f6a7df9e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a41bc9ef.js",
+    "static/js/2.18e9ccae.chunk.js",
+    "static/css/main.f6a7df9e.chunk.css",
+    "static/js/main.17f4253a.chunk.js"
+  ]
+}
